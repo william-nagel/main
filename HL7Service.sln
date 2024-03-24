@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HL7Service", "HL7Service\HL7Service.csproj", "{921D2451-7117-4EBA-ADDF-F6EFE332E134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL7ServiceTest", "HL7ServiceTest\HL7ServiceTest.csproj", "{7498D7E8-F302-49C0-BAC0-B5C90BA439F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{921D2451-7117-4EBA-ADDF-F6EFE332E134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921D2451-7117-4EBA-ADDF-F6EFE332E134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921D2451-7117-4EBA-ADDF-F6EFE332E134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921D2451-7117-4EBA-ADDF-F6EFE332E134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7498D7E8-F302-49C0-BAC0-B5C90BA439F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7498D7E8-F302-49C0-BAC0-B5C90BA439F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7498D7E8-F302-49C0-BAC0-B5C90BA439F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7498D7E8-F302-49C0-BAC0-B5C90BA439F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFA19F0-6228-45C9-A4D8-619C01B94FA3}
+	EndGlobalSection
+EndGlobal
